@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testng.GoogleApplicationWithBeforeAfter">
+        <methods>
+          <include name="startUp"/>
+          <include name="logout"/>
+          <include name="testVtigerHomePage"/>
+          <include name="login"/>
+          <include name="cleanUp"/>
+          <include name="testReportsPage"/>
+        </methods>
+      </class> <!-- testng.GoogleApplicationWithBeforeAfter -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

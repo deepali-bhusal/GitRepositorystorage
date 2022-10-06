@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-05T17:14:04Z" name="Default suite" finished-at="2022-10-05T17:14:55Z" duration-ms="50810">
+    <groups>
+    </groups>
+    <test started-at="2022-10-05T17:14:04Z" name="Default test" finished-at="2022-10-05T17:14:55Z" duration-ms="50810">
+      <class name="Assignment15.VtigerTestng">
+        <test-method is-config="true" signature="loginvtiger()[pri:0, instance:Assignment15.VtigerTestng@7d9e8ef7]" started-at="2022-10-05T17:14:04Z" name="loginvtiger" finished-at="2022-10-05T17:14:40Z" duration-ms="35906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginvtiger -->
+        <test-method signature="menu()[pri:1, instance:Assignment15.VtigerTestng@7d9e8ef7]" started-at="2022-10-05T17:14:40Z" name="menu" finished-at="2022-10-05T17:14:49Z" duration-ms="8804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menu -->
+        <test-method signature="leads()[pri:2, instance:Assignment15.VtigerTestng@7d9e8ef7]" started-at="2022-10-05T17:14:49Z" name="leads" finished-at="2022-10-05T17:14:55Z" duration-ms="6056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leads -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Assignment15.VtigerTestng@7d9e8ef7]" started-at="2022-10-05T17:14:55Z" name="afterTest" finished-at="2022-10-05T17:14:55Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Assignment15.VtigerTestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
